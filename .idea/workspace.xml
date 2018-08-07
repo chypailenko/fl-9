@@ -1,55 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfe1d528-bc99-45d6-917c-cabe2e5da5bc" name="Default" comment="added 3d homework">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/fl-9.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FE_9_1_homework_html-basics" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FE_9_3_homework_preprocessors/homework/css/style1.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FE_9_3_homework_preprocessors/homework/css/style1.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FE_9_3_homework_preprocessors/homework/css/style2.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FE_9_3_homework_preprocessors/homework/css/style2.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FE_9_3_homework_preprocessors/homework/img/about-section.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FE_9_3_homework_preprocessors/homework/img/baloon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FE_9_3_homework_preprocessors/homework/img/post-1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FE_9_3_homework_preprocessors/homework/img/post-2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FE_9_3_homework_preprocessors/homework/img/post-3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FE_9_3_homework_preprocessors/homework/img/post-4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FE_9_3_homework_preprocessors/homework/img/post-5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FE_9_3_homework_preprocessors/homework/img/post-6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FE_9_3_homework_preprocessors/homework/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FE_9_3_homework_preprocessors/homework/koala-config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FE_9_3_homework_preprocessors/homework/scss/_main.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FE_9_3_homework_preprocessors/homework/scss/_variables1.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FE_9_3_homework_preprocessors/homework/scss/_variables2.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FE_9_3_homework_preprocessors/homework/scss/style1.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FE_9_3_homework_preprocessors/homework/scss/style2.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FE_9_3_homework_preprocessors/task/FE_9_3_homework_preprocessors.docx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FE_9_3_homework_preprocessors/task/design/design1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FE_9_3_homework_preprocessors/task/design/design2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/FE_9_3_homework_preprocessors/task/~$_9_3_homework_preprocessors.docx" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/homework/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/FE_9_2_homework_css-basics/homework/css/bootstrap.min.css" />
-      <change beforePath="$PROJECT_DIR$/homework/css/general.css" afterPath="$PROJECT_DIR$/FE_9_2_homework_css-basics/homework/css/general.css" />
-      <change beforePath="$PROJECT_DIR$/homework/css/style.css" afterPath="$PROJECT_DIR$/FE_9_2_homework_css-basics/homework/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/homework/img/EPAM_logo.svg" afterPath="$PROJECT_DIR$/FE_9_2_homework_css-basics/homework/img/EPAM_logo.svg" />
-      <change beforePath="$PROJECT_DIR$/homework/img/FL8 L2 HW .docx" afterPath="$PROJECT_DIR$/FE_9_2_homework_css-basics/homework/img/FL8 L2 HW .docx" />
-      <change beforePath="$PROJECT_DIR$/homework/img/contact.jpg" afterPath="$PROJECT_DIR$/FE_9_2_homework_css-basics/homework/img/contact.jpg" />
-      <change beforePath="$PROJECT_DIR$/homework/img/idea-01.jpg" afterPath="$PROJECT_DIR$/FE_9_2_homework_css-basics/homework/img/idea-01.jpg" />
-      <change beforePath="$PROJECT_DIR$/homework/img/idea-02.jpg" afterPath="$PROJECT_DIR$/FE_9_2_homework_css-basics/homework/img/idea-02.jpg" />
-      <change beforePath="$PROJECT_DIR$/homework/img/idea-03.jpg" afterPath="$PROJECT_DIR$/FE_9_2_homework_css-basics/homework/img/idea-03.jpg" />
-      <change beforePath="$PROJECT_DIR$/homework/img/idea-04.jpg" afterPath="$PROJECT_DIR$/FE_9_2_homework_css-basics/homework/img/idea-04.jpg" />
-      <change beforePath="$PROJECT_DIR$/homework/img/idea-large-01.jpg" afterPath="$PROJECT_DIR$/FE_9_2_homework_css-basics/homework/img/idea-large-01.jpg" />
-      <change beforePath="$PROJECT_DIR$/homework/img/idea-large-02.jpg" afterPath="$PROJECT_DIR$/FE_9_2_homework_css-basics/homework/img/idea-large-02.jpg" />
-      <change beforePath="$PROJECT_DIR$/homework/img/idea-large-03.jpg" afterPath="$PROJECT_DIR$/FE_9_2_homework_css-basics/homework/img/idea-large-03.jpg" />
-      <change beforePath="$PROJECT_DIR$/homework/img/idea-large-04.jpg" afterPath="$PROJECT_DIR$/FE_9_2_homework_css-basics/homework/img/idea-large-04.jpg" />
-      <change beforePath="$PROJECT_DIR$/homework/img/image-1.jpg" afterPath="$PROJECT_DIR$/FE_9_2_homework_css-basics/homework/img/image-1.jpg" />
-      <change beforePath="$PROJECT_DIR$/homework/img/image.jpg" afterPath="$PROJECT_DIR$/FE_9_2_homework_css-basics/homework/img/image.jpg" />
-      <change beforePath="$PROJECT_DIR$/homework/img/white-bg.jpg" afterPath="$PROJECT_DIR$/FE_9_2_homework_css-basics/homework/img/white-bg.jpg" />
-      <change beforePath="$PROJECT_DIR$/homework/index.html" afterPath="$PROJECT_DIR$/FE_9_2_homework_css-basics/homework/index.html" />
-      <change beforePath="$PROJECT_DIR$/task/FE_9_2_homework_css-basics.docx" afterPath="$PROJECT_DIR$/FE_9_2_homework_css-basics/task/FE_9_2_homework_css-basics.docx" />
+    <list default="true" id="dfe1d528-bc99-45d6-917c-cabe2e5da5bc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/FE_9_1_homework_html-basics" afterPath="$PROJECT_DIR$/FE_9_1_homework_html-basics" />
+      <change beforePath="$PROJECT_DIR$/FE_9_2_homework_css-basics/homework/css/style.css" afterPath="$PROJECT_DIR$/FE_9_2_homework_css-basics/homework/css/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -66,8 +20,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FE_9_2_homework_css-basics/homework/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="97" column="4" lean-forward="false" selection-start-line="97" selection-start-column="4" selection-end-line="97" selection-end-column="4" />
+            <state relative-caret-position="321">
+              <caret line="138" column="0" lean-forward="true" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -119,6 +73,17 @@
               <item name="fl-9" type="b2602c69:ProjectViewProjectNode" />
               <item name="fl-9" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="fl-9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fl-9" type="462c0819:PsiDirectoryNode" />
+              <item name="FE_9_1_homework_html-basics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fl-9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fl-9" type="462c0819:PsiDirectoryNode" />
+              <item name="FE_9_1_homework_html-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -159,12 +124,20 @@
       <option name="presentableId" value="Default" />
       <updated>1533670412117</updated>
       <workItem from="1533670413723" duration="43000" />
-      <workItem from="1533670724078" duration="228000" />
+      <workItem from="1533670724078" duration="579000" />
     </task>
+    <task id="LOCAL-00001" summary="added 3d homework">
+      <created>1533670963310</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533670963310</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="271000" />
+    <option name="totallyTimeSpent" value="622000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -177,6 +150,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2498671" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -187,7 +161,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.65592784" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2951031" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -213,10 +187,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/FE_9_1_homework_html-basics/homework/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/FE_9_2_homework_css-basics/homework/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="97" column="4" lean-forward="false" selection-start-line="97" selection-start-column="4" selection-end-line="97" selection-end-column="4" />
+        <state relative-caret-position="321">
+          <caret line="138" column="0" lean-forward="true" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
           <folding />
         </state>
       </provider>
