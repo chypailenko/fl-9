@@ -1,0 +1,123 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body {
+  font-family: serif;
+  background: #efefef; }
+
+.main-wrapper {
+  max-width: 1120px;
+  margin: 0 auto; }
+
+header {
+  display: flex;
+  align-content: space-between;
+  align-items: flex-end; }
+  header .logo img {
+    width: 350px; }
+  header nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-transform: uppercase;
+    margin-bottom: 35px;
+    border-top: 1px solid #617d8a;
+    border-bottom: 1px solid #617d8a;
+    height: 50px;
+    width: 70%; }
+    header nav a {
+      text-decoration: none;
+      color: #fc5830; }
+      header nav a:hover {
+        color: #fd8162; }
+
+.toolbar {
+  text-align: right; }
+  .toolbar input {
+    width: 180px;
+    height: 38px;
+    border: 1px solid #fc5830;
+    background-color: transparent;
+    padding: 12px 16px;
+    margin: 13px 0; }
+
+.about p {
+  margin-bottom: 30px;
+  color: #757575;
+  line-height: 25px; }
+.about h1 {
+  text-align: right;
+  margin-top: 55px;
+  color: #fc5830;
+  text-transform: uppercase; }
+.about img {
+  max-width: 100%; }
+
+.post-list {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around; }
+  .post-list article {
+    flex: 0 50%;
+    background-color: white;
+    margin-bottom: 25px;
+    padding: 10px; }
+    .post-list article .post-description {
+      color: #bfbfbf;
+      font-size: 15px;
+      padding-top: 0;
+      border-bottom: 1px solid #617d8a;
+      margin-bottom: 10px; }
+    .post-list article img {
+      width: 100%; }
+    .post-list article div {
+      padding: 10px; }
+      .post-list article div h3 {
+        color: #617d8a;
+        text-transform: uppercase; }
+      .post-list article div p {
+        color: #757575;
+        margin-bottom: 10px;
+        line-height: 25px; }
+
+.contact-form {
+  margin-top: 50px;
+  text-align: right; }
+  .contact-form h4 {
+    text-transform: uppercase;
+    margin-bottom: 20px; }
+  .contact-form h1,
+  .contact-form h4 {
+    color: #fc5830; }
+  .contact-form form input,
+  .contact-form form textarea {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    border: 1px solid #757575; }
+  .contact-form form .submit-btn-wrapper {
+    text-align: right; }
+  .contact-form form input[type=submit] {
+    color: white;
+    border: none;
+    height: 38px;
+    width: 180px;
+    background-color: #fc5830;
+    text-transform: uppercase;
+    padding: unset;
+    cursor: pointer;
+    line-height: 30px;
+    font-weight: bold; }
+    .contact-form form input[type=submit]:hover {
+      background-color: #fd8162; }
+
+footer {
+  margin-bottom: 10px; }
+  footer span {
+    color: #757575;
+    font-size: 15px; }
+
+/*# sourceMappingURL=style2.css.map */

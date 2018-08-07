@@ -1,0 +1,169 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: $fontFamily;
+  background: $mainColor;
+}
+.main-wrapper {
+  max-width: 1120px;
+  margin: 0 auto;
+}
+header {
+  display: flex;
+  align-content: space-between;
+  align-items: flex-end;
+
+  .logo img {
+    width: 350px;
+  }
+
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-transform: uppercase;
+    margin-bottom: 35px;
+    border-top: 1px solid $line;
+    border-bottom: 1px solid $line;
+    height: 50px;
+    width: 70%;
+
+    a {
+      text-decoration: none;
+      color: $primaryColor;
+
+      &:hover {
+        color: lighten($primaryColor, 10);
+      }
+    }
+  }
+}
+.toolbar {
+  text-align: right;
+
+  input {
+    width: 180px;
+    height: 38px;
+    border: 1px solid $primaryColor;
+    background-color: transparent;
+    padding: 12px 16px;
+    margin: 13px 0;
+  }
+}
+.about {
+
+  p {
+    margin-bottom: 30px;
+    color: $paragraph;
+    line-height: 25px;
+  }
+  
+  h1 {
+    text-align: right;
+    margin-top: 55px;
+    color: $primaryColor;
+    text-transform: uppercase;
+  }
+
+  img {
+    max-width: 100%;
+  }
+}
+.post-list {
+  display:flex;
+  flex-wrap:wrap;
+  flex-direction:row;
+  justify-content: space-around;
+
+  article {
+    flex: 0 50%;
+    background-color: $cardColor;
+    margin-bottom: 25px;
+    padding: 10px;
+
+    .post-description {
+      color: $post;
+      font-size: 15px;
+      padding-top: 0;
+      border-bottom: 1px solid $line;
+      margin-bottom: 10px;
+    }
+
+    img {
+      width: 100%;
+    }
+
+    div {
+      padding: 10px;
+
+      h3 {
+        color: $HeaderCard;
+        text-transform: uppercase;
+      }
+
+      p {
+        color: $paragraph;
+        margin-bottom: 10px;
+        line-height: 25px;
+      }
+    }
+  }
+}
+
+.contact-form{
+  margin-top: 50px;
+  text-align: right;
+
+  h4 {
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+
+  h1,
+    h4 {
+      color: $primaryColor;
+    }
+
+  form {
+    input,
+    textarea {
+      width: 100%;
+      margin-bottom: 20px;
+      padding: 10px 20px;
+      border: 1px solid $form; 
+    }
+
+    .submit-btn-wrapper {
+      text-align: right;
+    }
+
+    input[type=submit] {
+      color: white;
+      border: none;
+      height: 38px;
+      width: 180px;
+      background-color: $primaryColor;
+      text-transform: uppercase;
+      padding: unset;
+      cursor: pointer;
+      line-height: 30px;
+      font-weight: bold;
+
+      &:hover {
+        background-color: lighten($primaryColor, 10);
+      }
+    }
+  }
+}
+
+footer {
+  margin-bottom: 10px;
+
+  span {
+    color: $paragraph;
+    font-size: 15px;
+  }
+}

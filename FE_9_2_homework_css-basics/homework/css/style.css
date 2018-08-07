@@ -1,0 +1,139 @@
+
+@media print {
+
+	body {
+	 	padding-top: 0;
+	}
+	.tm-main-content {
+		 margin-left: 0; 
+		 padding-left: 0;
+	}
+	.tm-sidebar {	
+		display: none;
+	}
+	.pad {
+		padding: 0;
+	}
+	.flex-2-col {
+		flex-direction: column;
+	}
+	h2.tm-section-title {
+		color: blue;
+	}
+	.tm-banner {
+		height: 250px;
+	}
+	.tm-content-box {
+		margin-bottom: 30px; 
+	}
+	#about,
+	.tm-sidebar,
+    section:not(:first-of-type) {
+        display: none;
+    }
+}
+
+
+@media screen {
+
+.thumbnail {
+	border-radius: 50%;
+} 
+.tm-section-title-box {
+	background-color: white;
+	font-size: 45px;
+}
+.tm-section-title-box:hover {
+    color: white;
+    font-weight: bold;
+    background-color: #2aabd2;
+    cursor: pointer;
+}
+p:first-letter {
+    color: #76cdd7;
+    font-size: 30px;
+    }
+.tm-sidebar, .tm-banner, section {
+	 box-shadow: 0 0 8px 0;
+}
+.tm-content-box {
+        position: relative;
+    }
+.tm-content-box::before {
+	display: block;
+	content: '';
+	width: 0;
+	height: 0;
+	border-top: 30px solid #2aabd2;
+	border-right: 130px solid transparent;
+	position: absolute;
+	top:0;
+	left: 0;
+}
+.tm-content-box.flex-2-col:nth-child(2) {
+    display: none;
+}
+.carousel-content h2.tm-section-title{
+    color: gainsboro;
+    letter-spacing: 5px;
+}
+h2 + p {
+	font-style: italic;
+}
+.tm-section-description {
+	margin-left: 19px;
+}
+.heading h2 {
+	color: #76cdd7;
+	text-align: center;
+}
+.pad a {
+	color: #000;
+}
+.pad a:visited {
+	color: silver;
+}
+.pad a:nth-child(4) {
+	text-decoration: underline;
+	/*text-decoration: overline;*/
+}
+.text::after {	
+    content: "New";
+    vertical-align: super;
+    color: red;
+    font-size: 10px;
+}
+.pad a:hover {
+    color: #76cdd7;
+    text-decoration: underline double;
+}
+.gallery-container .box:nth-child(odd) {
+	background-color: #f2f2f2;
+}
+.box p:first-letter {
+        color: #000;
+}
+.box h2 {
+	font-size: 40px;
+}
+.box p {
+	font-size: 23px;
+}
+.tm-nav-item:not(:last-of-type) {
+	border-bottom: 2px dotted silver;
+}
+.form-control,
+.submit-btn {
+	color: red;
+}
+.submit-btn:hover {
+	color: white;
+	background-color: #2aabd2;
+}
+.mandatory-field::after {
+	content: '*';
+	color: red;
+	font-weight: bold;
+}
+
+}
